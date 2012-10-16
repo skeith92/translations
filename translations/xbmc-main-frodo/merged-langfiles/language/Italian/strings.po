@@ -3784,11 +3784,11 @@ msgstr "Spegni Sistema"
 
 msgctxt "#13017"
 msgid "Inhibit idle shutdown"
-msgstr ""
+msgstr "Impedire chiusura per inattività"
 
 msgctxt "#13018"
 msgid "Allow idle shutdown"
-msgstr ""
+msgstr "Permettere chiusura per inattività"
 
 msgctxt "#13020"
 msgid "Is another session active, perhaps over ssh?"
@@ -5760,7 +5760,7 @@ msgstr "Informazioni trasmissione PVR"
 
 msgctxt "#19006"
 msgid "Receiving device"
-msgstr ""
+msgstr "Dispositivo ricevente"
 
 msgctxt "#19007"
 msgid "Device status"
@@ -5788,7 +5788,7 @@ msgstr "PVR Backend"
 
 msgctxt "#19013"
 msgid "Free to air"
-msgstr ""
+msgstr "Free to air"
 
 msgctxt "#19014"
 msgid "Fixed"
@@ -10096,11 +10096,11 @@ msgstr "Visualizza Changelog"
 
 msgctxt "#33074"
 msgid "This version of %s requires an"
-msgstr "Questa versione di %s richiede"
+msgstr "Questa versione di %s richiede una"
 
 msgctxt "#33075"
 msgid "XBMC revision of %s or greater to run."
-msgstr "una versione di XBMC superiore a %s."
+msgstr "versione di XBMC pari o superiore a %s."
 
 msgctxt "#33076"
 msgid "Please update XBMC."
@@ -10416,7 +10416,7 @@ msgstr "Connesso"
 
 msgctxt "#36017"
 msgid "Could not initialise the CEC adapter: libCEC was not found on your system."
-msgstr "Adattatore trovato, ma libcec non è disponibile"
+msgstr "Adattatore trovato, ma libCEC non è disponibile"
 
 msgctxt "#36018"
 msgid "Use the TV's language setting"
@@ -10436,7 +10436,7 @@ msgstr "Indirizzo fisico (predomina sulla porta HDMI)"
 
 msgctxt "#36022"
 msgid "COM port (leave empty unless needed)"
-msgstr "Porta COM (lascia vuoto finché non è necessaria)"
+msgstr "Porta COM (lasciare vuoto se non necessaria)"
 
 msgctxt "#36023"
 msgid "Configuration updated"
@@ -10448,7 +10448,7 @@ msgstr "Impossibile settare la nuova configurazione. Ricontrolla le impostazioni
 
 msgctxt "#36025"
 msgid "Send 'inactive source' command when stopping XBMC"
-msgstr "Invia il comando 'sorgente inattiva' quando XBMC viene chiuso"
+msgstr "Invia il comando 'sorgente inattiva' quando si arresta XBMC"
 
 msgctxt "#36026"
 msgid "Put devices in standby mode when putting the PC in standby"
@@ -10456,7 +10456,7 @@ msgstr "Imposta i dispositivi in standby quando il PC viene impostato in standby
 
 msgctxt "#36027"
 msgid "This device needs servicing"
-msgstr ""
+msgstr "Questo dispositivo necessita di un controllo"
 
 msgctxt "#36028"
 msgid "Ignore"
@@ -10480,7 +10480,7 @@ msgstr "La porta è occupata. Solo un programma può accedere all'adattatore CEC
 
 msgctxt "#36033"
 msgid "Pause playback when switching to another source"
-msgstr ""
+msgstr "Interrompi la riproduzione al cambio di sorgente"
 
 msgctxt "#36035"
 msgid "Always"
@@ -10488,4 +10488,4 @@ msgstr "Sempre"
 
 msgctxt "#36036"
 msgid "On start/stop"
-msgstr ""
+msgstr "All' avvio/arresta"
